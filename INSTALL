@@ -1,0 +1,4 @@
+$ git clone git@github.com:bratsche/winter
+$ cd winter
+$ cmake .
+$ make && make install
